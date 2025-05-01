@@ -1,4 +1,4 @@
-#Image Classification with MLP and VGG16: Custom and Pretrained Architectures in PyTorch
+# Image Classification with MLP and VGG16: Custom and Pretrained Architectures in PyTorch
 
 This repository contains implementations of multilayer perceptron (MLP) and VGG16 models for image classification tasks. 
 The project includes three approaches:
